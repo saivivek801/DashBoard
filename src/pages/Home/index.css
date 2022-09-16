@@ -1,0 +1,14 @@
+.home-heading{
+    position: absolute;
+    top: 58%;
+    left: 41%;
+    color: white;
+    font-size: 44px;
+}
+.home-paragraph{
+    position: absolute;
+    top: 66%;
+    font-size: 32px;
+    left: 34%;
+    color: white;
+}

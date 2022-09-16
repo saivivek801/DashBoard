@@ -1,0 +1,17 @@
+.navbarBg{
+    background-color: royalblue;
+}
+
+.navMenuItem{
+    font-family: sans-serif;
+    font-weight: 500;
+    color: black;
+    font-size: 18px;
+    margin-left: 30px;
+    text-decoration: none;
+}
+
+.navHeading{
+    height: auto;
+    width: 200px;
+}
